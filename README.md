@@ -1,4 +1,4 @@
-# Tidalab-Unpack
+# Tidalab-mac-win
 V2board 潮汐客户端的解包后文件以及 Electron-builder 构建选项补全。
 
 ##已更换umi.css umi.js  index.html  新增fake.js
