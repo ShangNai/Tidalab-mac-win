@@ -1,7 +1,7 @@
 # Tidalab-mac-win
 V2board 潮汐客户端的解包后文件以及 Electron-builder 构建选项补全。
 
-##已更换umi.css umi.js  index.html  新增fake.js
+## 已更换umi.css umi.js  index.html  新增fake.js
 
 ## 使用
 1、搜索 `$api-url$`、`$title$`、`$license$` 分别替换为你的站点地址、标题、授权码，授权码通过对 `站点地址` 做sha1运算然后加上 `1145141919` 再做sha1运算取得。  
