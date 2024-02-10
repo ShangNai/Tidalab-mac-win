@@ -10,8 +10,8 @@ V2board 潮汐客户端的解包后文件以及 Electron-builder 构建选项补
 
 
 
-##  mac构建:electron-builder --project project/tidalab/src（绝对路径）
-##  win构建:electron-builder --win --project project/tidalab/src（绝对路径）
+##  mac构建:electron-builder --project path/your_project/tidalab/src（绝对路径）
+##  win构建:electron-builder --win --project path/your_project/tidalab/src（绝对路径）
 
 
 ## 声明
