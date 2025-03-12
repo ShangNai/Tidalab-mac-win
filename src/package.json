@@ -1,7 +1,7 @@
 {
-  "name": "tidalab",
+  "name": "Lustar",
   "main": "main.js",
-  "version": "4.1.10",
+  "version": "0.1.0-beta",
   "author": "tidalab",
   "license": "CC0-1.0",
   "dependencies": {
@@ -14,9 +14,9 @@
   },
   "build": {
     "electronVersion": "11.0.0",
-    "productName": "tidalab",
-    "appId": "com.tidalab",
-    "copyright": "©2023 tidalab, Inc.",
+    "productName": "Lustar",
+    "appId": "com.lustar",
+    "copyright": "©2025 Lustar, Inc.",
     "directories": {
       "output": "build"
     },
