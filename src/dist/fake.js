@@ -5,7 +5,7 @@ var wangzhangurl = "https://lustar.xyz";
 // 登录页面背景图
 var loginBackgroundImageUrl = 'https://cdn.manyacg.top/thumb/twitter/3071055854/67d14c8a822d5d800fbbcbd4_thumb.avif';
 // 登录后的背景图
-var headBackgroundImageUrl = 'https://manyacg.top/artwork/67d0ee3e822d5d800fbbc9bd';
+var headBackgroundImageUrl = 'https://cdn.manyacg.top/regular/pixiv/564736/67d0ee39822d5d800fbbc9ba_regular.webp';
 // 存储网站授权码  不懂勿动
 var license_key;
 
