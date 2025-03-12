@@ -1,11 +1,11 @@
 const crypto = require('crypto');
 
 // 机场的地址url
-var wangzhangurl = "你的网站url";
+var wangzhangurl = "https://lustar.xyz";
 // 登录页面背景图
-var loginBackgroundImageUrl = '图片url';
+var loginBackgroundImageUrl = 'https://cdn.manyacg.top/thumb/twitter/3071055854/67d14c8a822d5d800fbbcbd4_thumb.avif';
 // 登录后的背景图
-var headBackgroundImageUrl = '图片url';
+var headBackgroundImageUrl = 'https://manyacg.top/artwork/67d0ee3e822d5d800fbbc9bd';
 // 存储网站授权码  不懂勿动
 var license_key;
 
