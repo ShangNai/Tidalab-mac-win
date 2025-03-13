@@ -37146,21 +37146,6 @@
 						var n, r, s, c, u, l, f, p, d, h;
 						return o.a.wrap(function(e) {
 							while (1) switch (e.prev = e.next) {
-								case 0:
-									return n = t.put, r = t.select, e.prev = 1, c =
-										new Error, s = setTimeout(() => {
-											throw c.message =
-												"\u83b7\u53d6\u8282\u70b9\u8d85\u65f6\uff0c\u65e0\u6cd5\u8fde\u63a5\u81f3\u670d\u52a1",
-												c.action = [{
-													text: "\u9000\u51fa\u767b\u9646",
-													onPress: () => window.utils
-														.logout()
-												}, {
-													text: "\u91cd\u8bd5",
-													onPress: () => window.utils
-														.getServers()
-												}], c
-										}, 3e4), e.next = 6, window.service.getStatus();
 								case 6:
 									if (u = e.sent, u && (null === u || void 0 === u ?
 											void 0 : u.inited)) {
