@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 
 // 机场的地址url
-var wangzhangurl = "https://nb.nbvpn.top";
+var wangzhangurl = "https://lustar.xyz";
 // 登录页面背景图
 var loginBackgroundImageUrl = 'https://cdn.manyacg.top/thumb/twitter/3071055854/67d14c8a822d5d800fbbcbd4_thumb.avif';
 // 登录后的背景图
