@@ -38,7 +38,7 @@ jobs:
        if: matrix.os == 'ubuntu-latest'
        run: |
          cd src
-         target=win32 npx electron-builder build --win --project
+         target=win32 npx electron-builder build --win --x64
 
      - name: 构建 macos x64
        if: matrix.os == 'macos-latest'
